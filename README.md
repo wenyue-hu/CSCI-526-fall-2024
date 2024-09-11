@@ -1,0 +1,2 @@
+# CSCI 526
+ USC CSCI 526
